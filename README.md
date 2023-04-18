@@ -24,16 +24,16 @@ Install python if you don't have it already
 
 8. Click on the first thumbnail image which should pop up the original image
 
-9. In the same Network tab, click on the last request which has "object_attachment?key=xxxxxx". [See pic attached]
+9. In the same Network tab, click on the last request which has "object_attachment?key=xxxxxx". [See pic attached - network_tab_1.png]
 
-10. Right click on this row and select Copy Value --> Copy as cURL
+10. Right click on this row and select Copy Value --> Copy as cURL [See pic attached - network_tab_2.png]
 
 11. In your terminal, create a file and paste. 
     E.g. vi sample_curl.txt   <paste the curl command>
     
 12. Now go back to the My Bright Day browser tab, and click on all the months on the right one by one, scrolling down to the end.
 
-13. When done, click the settings icon on the lower right and Save All as HAR.  [See pic attached]
+13. When done, click the settings gear icon on the lower right of the Developer Tools frame and Save All as HAR. 
 
 14. Go to directory where the HAR was saved - should be in your Downloads folder.
 
