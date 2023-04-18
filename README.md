@@ -4,7 +4,8 @@ Downloader script for BH full size images.
 
 
 Prerequisite:
-Install python if you don't have it already
+- Install python if you don't have it already
+- Install Firefox browser if you don't already have it. The below steps have only been tested on Firefox.
 
 
 
